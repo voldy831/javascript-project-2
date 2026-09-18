@@ -1,3 +1,7 @@
+# 🔍 Interactive Posts Feed
+
+> 🚀 **Live Demo:** [Watch the demo in the browser](https://voldy831.github.io/javascript-project-2/)
+
 # 🔍 Interactive Posts Feed with Live Search & Infinite Scroll
 
 A lightweight, responsive front-end application that fetches, searches, and displays posts from an external API with real-time debounced search, manual pagination, and automatic infinite scrolling.
@@ -28,10 +32,3 @@ A lightweight, responsive front-end application that fetches, searches, and disp
 - **API**: [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for mock post data.
 
 ---
-
-## 🚀 Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/voldy831/javascript-project-2.git](https://github.com/voldy831/javascript-project-2.git)
-   ```
